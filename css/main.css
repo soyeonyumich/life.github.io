@@ -1,0 +1,116 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 14px;
+  background-color: #ffffff;
+  position: relative;
+  height: 1024px;
+}
+
+.container {
+  position: relative;
+}
+
+/* General Styling for All Images */
+.v1034_8778, .v1034_8760, .v873_3135, .v1034_8754, 
+.v1034_8781, .v1034_8769, .v1034_8775, .v1034_8757, 
+.v1034_8751, .v1034_8766, .v1034_8763 {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: absolute;
+  cursor: pointer;
+}
+
+/* Specific Positions and Sizes */
+.v1034_8778 {
+  width: 300px;
+  height: 200px;
+  top: 133px;
+  left: 730px;
+  background-image: url("../images/v1034_8778.png");
+}
+
+.v1034_8760 {
+  width: 208px;
+  height: 363px;
+  top: 78px;
+  left: 668px;
+  background-image: url("../images/v1034_8760.png");
+}
+
+.v873_3135 {
+  width: 205px;
+  height: 341px;
+  top: 330px;
+  left: 393px;
+  background-image: url("../images/v873_3135.png");
+}
+
+.v1034_8754 {
+  width: 199px;
+  height: 335px;
+  top: 106px;
+  left: 496px;
+  background-image: url("../images/v1034_8754.png");
+}
+
+.v1034_8781 {
+  width: 216px;
+  height: 202px;
+  top: 335px;
+  left: 540px;
+  background-image: url("../images/v1034_8781.png");
+}
+
+.v1034_8769 {
+  width: 242px;
+  height: 403px;
+  top: 218px;
+  left: 876px;
+  background-image: url("../images/v1034_8769.png");
+}
+
+.v1034_8775 {
+  width: 223px;
+  height: 193px;
+  top: 362px;
+  left: 700px;
+  background-image: url("../images/v1034_8775.png");
+}
+
+.v1034_8757 {
+  width: 261px;
+  height: 440px;
+  top: 487px;
+  left: 837px;
+  background-image: url("../images/v1034_8757.png");
+}
+
+.v1034_8751 {
+  width: 213px;
+  height: 303px;
+  top: 449px;
+  left: 668px;
+  background-image: url("../images/v1034_8751.png");
+}
+
+.v1034_8766 {
+  width: 274px;
+  height: 420px;
+  top: 487px;
+  left: 443px;
+  background-image: url("../images/v1034_8766.png");
+}
+
+.v1034_8763 {
+  width: 252px;
+  height: 246px;
+  top: 673px;
+  left: 649px;
+  background-image: url("../images/v1034_8763.png");
+}
